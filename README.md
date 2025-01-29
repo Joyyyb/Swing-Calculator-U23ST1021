@@ -1,1 +1,5 @@
 # Swing-Calculator-U23ST1021
+Joy Bawa 
+csc
+CSC ASSIGNMENT 
+WITH JOY T AKA LITTLEBISHOPT
