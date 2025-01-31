@@ -1,7 +1,7 @@
 # Swing-Calculator-U23ST1021
 Joy Bawa 
 U23ST1021 
-CSC ASSIGNMENT 
+CSC 201 ASSIGNMENT 
 
 import javax.swing.*;
 import java.awt.*;
