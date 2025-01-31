@@ -1,5 +1,5 @@
 # Swing-Calculator-U23ST1021
-Joy Bawa 
+Joy Bawa Musa
 U23ST1021 
 CSC 201 ASSIGNMENT 
 
